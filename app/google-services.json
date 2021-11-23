@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "811472638549",
+    "firebase_url": "https://fir-notification-a99dc.firebaseio.com",
+    "project_id": "fir-notification-a99dc",
+    "storage_bucket": "fir-notification-a99dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811472638549:android:2fa869bc0bcecdb16dfadc",
+        "android_client_info": {
+          "package_name": "com.example.fcm_21"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811472638549-gjqovqucr5jnq22t263b7v47barlph57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWZCvtiKxm2_kRCjUOAZOORyc7CkF1WQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811472638549-gjqovqucr5jnq22t263b7v47barlph57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811472638549:android:f9e109e662d6eeb76dfadc",
+        "android_client_info": {
+          "package_name": "com.example.weatherforecast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811472638549-gjqovqucr5jnq22t263b7v47barlph57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWZCvtiKxm2_kRCjUOAZOORyc7CkF1WQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811472638549-gjqovqucr5jnq22t263b7v47barlph57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811472638549:android:6fef2516b58c9a0f6dfadc",
+        "android_client_info": {
+          "package_name": "com.imyanmarhouse.imyanmarhouse1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811472638549-gjqovqucr5jnq22t263b7v47barlph57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWZCvtiKxm2_kRCjUOAZOORyc7CkF1WQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811472638549-gjqovqucr5jnq22t263b7v47barlph57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811472638549:android:31c077e07074157c",
+        "android_client_info": {
+          "package_name": "com.nayhtetlynn.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811472638549-fvi7vaqa164i6h9pocuq44rfep8pp2p4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nayhtetlynn.firebasenotification",
+            "certificate_hash": "71a1843ca0e4583b44d27ed7d9d6e90740ef970e"
+          }
+        },
+        {
+          "client_id": "811472638549-gjqovqucr5jnq22t263b7v47barlph57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWZCvtiKxm2_kRCjUOAZOORyc7CkF1WQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811472638549-gjqovqucr5jnq22t263b7v47barlph57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
