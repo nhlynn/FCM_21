@@ -9,7 +9,7 @@ class FcmMessageReceiverService : FirebaseMessagingService() {
 
     override fun onMessageReceived(remoteMessage: RemoteMessage) {
         super.onMessageReceived(remoteMessage)
-        NotificationUtil.addNotification(remoteMessage,this)
+        NotificationUtil.showNotification(remoteMessage,this)
     }
 
 }
